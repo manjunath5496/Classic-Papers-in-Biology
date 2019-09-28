@@ -29,11 +29,13 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(16).pdf" style="text-decoration:none;"> Molecular Structure of Nucleic Acids </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(12).pdf" style="text-decoration:none;">Novel Proteinaceous Infectious Particles Cause Scrapie</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(17).pdf" style="text-decoration:none;">  Chapter 11 (Geographical Distribution) and Chapter 12 (Geographical Distributions Continued) from Origin of Species (1859)</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(13).pdf" style="text-decoration:none;"> DNA Synthesis Dependent on Genetic Recombinations: Characterization of a Reaction Catalyzed by Purified Bacteriophage T4 Proteins </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(18).pdf" style="text-decoration:none;"> STK33 Kinase Activity is Nonessential in KRAS-Dependent Cancer Cells </a></b></li> 
  
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(19).pdf" style="text-decoration:none;">Scientific Integrity and Transparency</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(20).pdf" style="text-decoration:none;"> Synthetic Lethal Interaction between Oncogenic KRAS Dependency and STK33 Suppression in Human Cancer Cells </a></b></li> 
  
  
  
