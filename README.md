@@ -37,6 +37,42 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(20).pdf" style="text-decoration:none;"> Synthetic Lethal Interaction between Oncogenic KRAS Dependency and STK33 Suppression in Human Cancer Cells </a></b></li> 
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(21).pdf" style="text-decoration:none;"> Classic Papers in Genetics</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(22).pdf" style="text-decoration:none;">Patterns of speciation in Drosophila</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(23).pdf" style="text-decoration:none;">An experimental study of interaction between genetic drift and natural selection</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(24).pdf" style="text-decoration:none;">Punctuated equilibria: an alternative to phyletic gradualism</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(25).pdf" style="text-decoration:none;">Butterflies and plants: a study in coevolution</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(26).pdf" style="text-decoration:none;">Differentiation of populations</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(27).pdf" style="text-decoration:none;">The Nature of Inheritance</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(28).pdf" style="text-decoration:none;">Sexual reproduction and sexual selection</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(29).pdf" style="text-decoration:none;">The spandrels of San Marco and the Panglossian paradigm </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(30).pdf" style="text-decoration:none;">Speciation in Amazonian forest birds </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(31).pdf" style="text-decoration:none;">A mathematical theory of natural and artificial selection </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(32).pdf" style="text-decoration:none;">The cost of natural selection</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(33).pdf" style="text-decoration:none;"> Evolutionary rate at the molecular level </a></b></li>
+ 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(34).pdf" style="text-decoration:none;">Non-Darwinian evolution </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(35).pdf" style="text-decoration:none;">Change of genetic environment and evolution </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(36).pdf" style="text-decoration:none;"> Observations on evolutionary rates in hypsodonty </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(37).pdf" style="text-decoration:none;">  The roles of mutation, inbreeding, crossbreeding and selection in evolution</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(38).pdf" style="text-decoration:none;"> The perfection of animals </a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Biology/blob/master/cbp(39).pdf" style="text-decoration:none;">Chromosomal sequences and interisland colonizations in Hawaiian Drosophila</a></b></li>
+
  
  
  
